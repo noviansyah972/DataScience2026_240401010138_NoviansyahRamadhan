@@ -13,13 +13,18 @@ Melalui repository ini saya mendokumentasikan proses pembelajaran, eksplorasi da
 
 | Pertemuan | Topik | Notebook |
 |-----------|--------|----------|
-| 1 | Pengenalan Data Science | [Notebook](Pertemuan1_NoviansyahRamadhan_240401010132.ipynb) |
-| 2 | Struktur Data Python, NumPy & Pandas | [Notebook](Pertemuan2_NoviansyahRamadhan_240401010132.ipynb) |
-| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Notebook](Pertemuan2_NoviansyahRamadhan_240401010132.ipynb) |
-| 4 | Statistika Dasar & Analisis Data | [Notebook](Pertemuan4_NoviansyahRamadhan_240401010132.ipynb) |
-| 5 | Visualisasi Data | [Notebook](Pertemuan5_NoviansyahRamadhan_240401010132.ipynb) |
-| 6 | Persiapan Data | [Notebook](Pertemuan6_NoviansyahRamadhan_240401010132.ipynb) |
-| 7 | Pengantar Machine Learning: Regresi Dasar | [Notebook](Pertemuan7_NoviansyahRamadhan_240401010132.ipynb) |
+| 1 | Pengenalan Data Science | [Notebook](Pertemuan1_NoviansyahRamadhan_240401010138.ipynb) |
+| 2 | Struktur Data Python, NumPy & Pandas | [Notebook](Pertemuan2_NoviansyahRamadhan_240401010138.ipynb) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Notebook](Pertemuan2_NoviansyahRamadhan_240401010138.ipynb) |
+| 4 | Statistika Dasar & Analisis Data | [Notebook](Pertemuan4_NoviansyahRamadhan_240401010138.ipynb) |
+| 5 | Visualisasi Data | [Notebook](Pertemuan5_NoviansyahRamadhan_240401010138.ipynb) |
+| 6 | Persiapan Data | [Notebook](Pertemuan6_NoviansyahRamadhan_240401010138.ipynb) |
+| 7 | Pengantar Machine Learning: Regresi Dasar | [Notebook](Pertemuan7_NoviansyahRamadhan_240401010138.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | [Notebook](Pertemuan9_NoviansyahRamadhan_240401010138.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 2) | [Notebook](Pertemuan10_NoviansyahRamadhan_240401010138.ipynb) |
+| 11 | Unsupervised Learning: Clustering | [Notebook](Pertemuan11_NoviansyahRamadhan_240401010138.ipynb) |
+| 12 | Asosiasi Data & Sistem Rekomendasi Dasarr | [Notebook](Pertemuan12_NoviansyahRamadhan_240401010138.ipynb) |
+| 13 | Deep Learning dan NLP Dasar | [Notebook](Pertemuan13_NoviansyahRamadhan_240401010138.ipynb) |
 
 ## Tools dan Library yang Digunakan
 
